@@ -1,0 +1,7 @@
+{
+    "markdown.extension.preview.autoShowPreviewToSide": true,
+    "markdown.extension.toc.orderedList": true,
+    "files.exclude": {
+        "**/.git": false
+    }
+}
